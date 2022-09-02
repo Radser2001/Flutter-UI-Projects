@@ -1,6 +1,7 @@
 # Deezer UI clone
 
 <br/>
+<br/>
 
 <table>
   <tr>
