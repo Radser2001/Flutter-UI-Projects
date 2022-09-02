@@ -5,18 +5,18 @@
 <table>
   <tr>
     <td>
-      <img src="./screenshots/main.png" width="360" height="400" />
+      <img src="./screenshots/main.png" width="320" height="500" />
     </td>
     <td>
-      <img src="./screenshots/podcasts.png" width="360" height="400" />
+      <img src="./screenshots/podcasts.png" width="320" height="500" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./screenshots/favorites.png" width="360" height="400" />
+      <img src="./screenshots/favorites.png" width="320" height="500" />
     </td>
     <td>
-      <img src="./screenshots/search.png" width="360" height="400" />
+      <img src="./screenshots/search.png" width="320" height="500" />
     </td>
   </tr>
 </table>
