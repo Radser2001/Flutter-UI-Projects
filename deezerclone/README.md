@@ -1,5 +1,29 @@
 # Deezer UI clone
 
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="./screenshots/main.png" width="200" height="300" />
+    </td>
+    <td>
+      <img src="./screenshots/podcasts.png" width="200" height="300" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./screenshots/favorites.png" width="200" height="300" />
+    </td>
+    <td>
+      <img src="./screenshots/search.png" width="200" height="300" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr/>
+<br/>
 A new Flutter project.
 
 ## Getting Started
